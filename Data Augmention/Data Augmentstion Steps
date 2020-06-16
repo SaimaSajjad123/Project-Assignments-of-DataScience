@@ -1,0 +1,31 @@
+Data Augmentation:
+
+Step1:
+Import Librraries:
+Os 
+Shutil
+Step2:
+Get Current Directory and list all the directories in that current directory
+Step3:
+Join the directories
+Step4:
+Count the all records in one particular directory (train/test)
+Step5:
+Copying the file from Source to destination
+Step6:
+Now Apply data augmentation
+Step7:
+Import image processing libraries
+    • skimage
+    • import from skimage
+        ◦ transform
+        ◦ util
+        ◦ io
+Step8:
+Create 3 method for:
+    • rotation of image
+    • add noise in image
+    • apply flip(Horizantal/Vertical)
+save the images after apply above method
+Step9:
+Fetching the image and show the result
