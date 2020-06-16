@@ -1,0 +1,41 @@
+Flower Recognition :
+
+Step 1:
+Import the libraries:
+    • OS Libraray
+    • Shutil
+    • Matplotlip .pyplot
+    • numpy library
+
+Step 2:
+    1. Store all folder in one folder name ’Prepared’ for combining all flowers in one folder
+    2. list the directory and show
+
+Step 3:
+Create the directories of train and test of following  flowers:
+    • daisy
+    • dandelion
+    • rose
+    • sunflower
+    • tulip
+
+Step 4:
+Plot one graph in which all directories flowers show
+
+Step 5:
+Import the layers and models from the keras
+Show model summary
+
+Step 6:
+Compile the model
+Data Pre-processing
+
+Step 7:
+Fit the model and start Epochs
+Save the model with ‘.h5’ extension
+
+Step 8:
+Plot the accuracy Plot
+
+Step 9:
+Apply Prediction for flower.
