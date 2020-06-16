@@ -1,0 +1,29 @@
+Mnist(1):
+Step1:
+Import the libraries from keras
+Step2:
+Load the data from the dataset
+Step3:
+Designing the network:
+    • Model the network
+    • compile the network
+Step4:
+Reshape the images(train and test)
+Step5:
+Generates the epochs and save the  epochs with ‘.h5’ extension.
+Step6:
+Predict the  from the model and show the result.
+
+Mnist(2):
+Step1:
+Import the keras library
+Step2:
+Import layers and model  from keras
+Step3:
+Model the summary
+Step4:
+Save the model with ‘.h5’ extension
+Step5:
+Test the accuracy and loss function
+Step6:
+Predict the model and show the result
